@@ -837,7 +837,6 @@ Eventula is a comprehensive white-labeled event management system designed for L
 - Privacy policy management
 - User data export
 - User data deletion
-- Cookie consent management
 
 ### 22.2 Legal Pages
 - Terms and conditions
@@ -845,17 +844,12 @@ Eventula is a comprehensive white-labeled event management system designed for L
 - Privacy policy
 - Custom legal pages
 
-### 22.3 EU Cookie Consent
-- Cookie consent banner
-- Consent tracking
-- Cookie policy display
-
-### 22.4 User Privacy
+### 22.3 User Privacy
 - Account deletion
 - Data anonymization
 - Consent management
 
-### 22.5 Security Features
+### 22.4 Security Features
 - Email verification
 - Password reset security
 - Banned user prevention
