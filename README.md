@@ -122,7 +122,6 @@ Hop over to our [admin documentation](https://eventula.lan2play.de/admin/getting
 - Account Management
 - Newsletter / Email Feature
 - Multilanguage (currently EN and DE)
-- EU cookie consent
 - Imprint / Dataprotection page
 - Fully Encapsulated in Docker Containers
 - Built on Laravel
